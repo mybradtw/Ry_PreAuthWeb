@@ -23,7 +23,6 @@
                 <data
                     android:host="myservice"
                     android:scheme="bradapp"/>
-
             </intent-filter>
         </activity>
 
